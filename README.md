@@ -77,3 +77,5 @@ This process should be automatic and triggered by a push to the GitHub master br
 2. Please mention your github repository containing all the codes includeing application code, pipeline code, Dockerfile, Ansible scripts, Terraform scripts, kubernetes scripts etc..
 
 this is my first devops project.
+completed!!
+congratulations!!
