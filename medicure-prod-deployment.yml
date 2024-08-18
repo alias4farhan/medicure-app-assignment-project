@@ -16,6 +16,6 @@
      state: started
      enabled: true
 
-  - name: deploy to test-server
+  - name: deploy to prod-server
     command: docker run -itd -p 8082:8082 dock2learn/medicure-app:3.0
     
